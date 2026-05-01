@@ -132,8 +132,8 @@ dementia-progression-forecasting/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/comp703-dementia-progression-forecasting.git
-cd comp703-dementia-progression-forecasting
+git clone https://github.com/<your-username>/dementia-progression-forecasting.git
+cd dementia-progression-forecasting
 ```
 
 ### 2. Install dependencies
